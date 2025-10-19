@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1760908979 source:c:\users\yoels\onedrive - correounivalle.edu.co\documents\proyectos\universidad\c++\mlq\main.cpp
+	<iostream>
+	<fstream>
+	<string>
+	<sstream>
+	<iomanip>
+	<cstring>
+
